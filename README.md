@@ -16,6 +16,7 @@ Built using a modern Node.js and Express.js architecture with MongoDB as the dat
 - Order creation & tracking
 - RESTful API architecture
 - Environment-based configuration
+- product images saved in the supabase storage
 - Error handling middleware
 - Secure password hashing
 
